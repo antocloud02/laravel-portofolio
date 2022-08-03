@@ -1,14 +1,6 @@
 # laravel-portofolio
 
 
-## Add your files
-```
-cd existing_repo
-git remote add origin https://github.com/antocloud02/laravel-portofolio.git
-git branch -M main
-git push -uf origin main
-```
-
 ## Requirements
 * PHP >= 7.4.3
 * Laravel >= 8.0
@@ -21,7 +13,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:antocloud02/laravel-portofolio.git
+    git clone https://github.com/antocloud02/laravel-portofolio.git
 
 Switch to the repo folder
 
