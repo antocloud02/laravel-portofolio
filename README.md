@@ -3,6 +3,9 @@
 ## Demo
 https://laravel-portofolio.it-97.com/
 
+    username : admin@gmail.com
+    password : password
+
 ## Requirements
 * PHP >= 7.4.3
 * Laravel >= 8.0
