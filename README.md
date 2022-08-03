@@ -4,7 +4,7 @@
 ## Add your files
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/easycode.id/sahara/sahara-panel.git
+git remote add origin https://github.com/antocloud02/laravel-portofolio.git
 git branch -M main
 git push -uf origin main
 ```
